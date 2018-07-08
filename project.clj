@@ -1,7 +1,7 @@
 (defproject testing-clj-17 "1.1.0-SNAPSHOT"
   :description "Testing CLJ 1.7"
   :dependencies [[org.clojure/clojure "1.7.0"]
-                 [org.clojure/clojure "1.8.0"]
+                 #_[org.clojure/clojure "1.8.0"]
                  [clj-time "0.14.2"]
                  [figwheel-sidecar "0.5.0-SNAPSHOT" :scope "test"]
                  [org.clojure/clojurescript "1.7.170"]
